@@ -1,7 +1,7 @@
-# test_hubo
+# Test
 
 A new Flutter project.
 
 ## Getting Started
 
-<img src="gif/test.gif"  height="400">
+<img src="gif/test.gif"  height="420">
